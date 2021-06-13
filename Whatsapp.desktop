@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Whatsapp
+Comment=Open Whatsapp in Chrome
+Exec=python -m webbrowser "https://web.whatsapp.com/"
+Icon=/home/crosstars/.local/share/icons/wp.png
+Terminal=false
+Type=Application
+Categories=Application;
